@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/bkDevMe/bk-builder/issues"
   },
-  "homepage": "https://github.com/bkDevMe/bk-builder#readme"
+  "homepage": "https://github.com/bkDevMe/bk-builder#readme",
+  "dependencies": {
+    "babel-loader": "^8.2.5",
+    "html-webpack-plugin": "^5.5.0",
+    "less-loader": "^11.0.0",
+    "mini-css-extract-plugin": "^2.6.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-merge": "^5.8.0"
+  }
 }
