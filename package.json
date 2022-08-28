@@ -10,6 +10,9 @@
     "f2elint-scan": "f2elint scan",
     "f2elint-fix": "f2elint fix"
   },
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bkDevMe/bk-builder.git"
@@ -18,7 +21,7 @@
     "webpack"
   ],
   "author": "bk",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bkDevMe/bk-builder/issues"
   },
