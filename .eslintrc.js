@@ -1,8 +1,13 @@
 module.exports = {
   extends: [
-    'eslint-config-ali/typescript/react',
     'prettier',
     'prettier/@typescript-eslint',
-    'prettier/react',
   ],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": 'module'
+  },
+  "env": {
+    "es6": true
+  },
 };

@@ -1,3 +1,10 @@
 const init = 'aaa';
 
-console.log('init', init);
+function foo() {
+  return 'aa'
+}
+
+export {
+  init,
+  foo
+}

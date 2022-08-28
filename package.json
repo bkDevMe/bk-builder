@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/bkDevMe/bk-builder#readme",
   "dependencies": {
+    "@babel/preset-env": "^7.18.10",
     "add-asset-html-webpack-plugin": "^5.0.2",
     "babel-loader": "^8.2.5",
     "clean-webpack-plugin": "^4.0.0",
